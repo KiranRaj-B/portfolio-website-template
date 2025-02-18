@@ -27,5 +27,14 @@ Navigate to the Project Folder
 ```bash
 cd portfolio-website-template
 ```
-
-
+Install the Dependencies
+```bash
+npm install
+```
+unning the Project
+Start the Development Server
+```bash
+npm run dev
+```
+View the Website
+**Open your browser and go to http://localhost:5173 to see the portfolio website.**
