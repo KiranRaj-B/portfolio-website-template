@@ -50,5 +50,4 @@ Feel free to reach out to me via:
 Visit my website: [Portfolio Website](https://portfolio-website-template-by-kiranbadakambi.vercel.app/)
 
 ### Kiran Badakambi
-![Logo](https://your-logo-url.com)
 
