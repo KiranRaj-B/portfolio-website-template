@@ -14,3 +14,18 @@ To verify if Node.js and npm are installed, run the following commands in your t
 ```bash
 node -v
 npm -v
+```
+🛠️ Installation
+Clone the Repository
+
+To get started, clone this repository to your local machine:
+
+```bash
+git clone https://github.com/KiranRaj-B/portfolio-website-template.git
+```
+Navigate to the Project Folder
+```bash
+cd portfolio-website-template
+```
+
+
